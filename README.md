@@ -33,7 +33,7 @@ echo "GROQ_API_KEY=your_key_here" > .env
 
 # Run for any city
 python main.py "Montreal"
-python main.py "Dubai"
+python main.py "Blida"
 python main.py "Algiers"
 ```
 
